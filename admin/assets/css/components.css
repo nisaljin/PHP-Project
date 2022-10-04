@@ -3218,7 +3218,8 @@ table.dataTable thead th.sorting_desc:after {
   color: #ffffff;
 }
 .table-colored-bordered.table-bordered-primary {
-  border: 2px solid #188ae2;
+  border: 2px solid #000000;
+  border-radius: 20px;
 }
 .table-colored-bordered.table-bordered-primary thead th {
   background-color: #188ae2;

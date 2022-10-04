@@ -108,6 +108,7 @@ body.fixed-left .side-menu.left {
   bottom: 50px;
   margin-bottom: -70px;
   margin-top: 0;
+  background-color: #DBDDDE;
   padding-bottom: 70px;
   position: fixed;
 }
@@ -141,6 +142,7 @@ body.fixed-left .side-menu.left {
 #sidebar-menu li,
 #sidebar-menu a {
   border: 0;
+  color: black;
   font-weight: normal;
   line-height: 1;
   list-style: none;
@@ -190,10 +192,10 @@ body.fixed-left .side-menu.left {
   border-top: 0;
 }
 #sidebar-menu ul ul li.active a {
-  color: #7fc1fc;
+  color: #000658;
 }
 #sidebar-menu ul ul a {
-  color: #98a6ad;
+  color: #000000;
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
   -o-transition: all 0.3s ease-out;
@@ -205,7 +207,7 @@ body.fixed-left .side-menu.left {
   font-size: 13px;
 }
 #sidebar-menu ul ul a:hover {
-  color: #ffffff;
+  color: #707070;
 }
 #sidebar-menu ul ul a i {
   margin-right: 5px;
@@ -221,7 +223,7 @@ body.fixed-left .side-menu.left {
   background-color: #313a46;
 }
 #sidebar-menu > ul > li > a {
-  color: #98a6ad;
+  color: #000000;
   display: block;
   padding: 12px 20px;
   margin: 2px 0;

@@ -56,7 +56,7 @@ endif;
    <?php include('includes/header.php');?>
 
     <!-- Page Content -->
-    <div class="container">
+    <div class="container-fluid">
 
 
      
